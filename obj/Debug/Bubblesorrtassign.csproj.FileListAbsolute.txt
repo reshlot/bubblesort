@@ -1,0 +1,8 @@
+D:\Simplilearn\Day-11\Assignment\Bubblesorrtassign\Bubblesorrtassign\bin\Debug\Bubblesorrtassign.exe.config
+D:\Simplilearn\Day-11\Assignment\Bubblesorrtassign\Bubblesorrtassign\bin\Debug\Bubblesorrtassign.exe
+D:\Simplilearn\Day-11\Assignment\Bubblesorrtassign\Bubblesorrtassign\bin\Debug\Bubblesorrtassign.pdb
+D:\Simplilearn\Day-11\Assignment\Bubblesorrtassign\Bubblesorrtassign\obj\Debug\Bubblesorrtassign.csproj.AssemblyReference.cache
+D:\Simplilearn\Day-11\Assignment\Bubblesorrtassign\Bubblesorrtassign\obj\Debug\Bubblesorrtassign.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Day-11\Assignment\Bubblesorrtassign\Bubblesorrtassign\obj\Debug\Bubblesorrtassign.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Day-11\Assignment\Bubblesorrtassign\Bubblesorrtassign\obj\Debug\Bubblesorrtassign.exe
+D:\Simplilearn\Day-11\Assignment\Bubblesorrtassign\Bubblesorrtassign\obj\Debug\Bubblesorrtassign.pdb
